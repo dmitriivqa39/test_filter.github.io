@@ -1,10 +1,2 @@
 championat.com##.header
 ||mail.ru^$documents
-
-!#include https://raw.githubusercontent.com/anastenko/Custom_filter/main/Custom_filter
-
-example.org##h1
-!#if !adguard
-!#include dkjfhbvdjhfbvjdhfv.txt
-!#endif
-example.org##p
