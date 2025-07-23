@@ -2,4 +2,3 @@ championat.com##.header
 ||mail.ru^$documents
 @@||example.org^$document
 ||mail.com^$documents
-||mail.org^$documents
