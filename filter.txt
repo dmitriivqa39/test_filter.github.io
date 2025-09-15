@@ -2,3 +2,4 @@ www.youtube.com#%#(()=>{const e={apply:(e,t,c)=>{try{const e=c[0];e&&e.includes(
 www.youtube.com#%#(()=>{window.addEventListener("load",(()=>{const e=document.querySelector(".html5-video-player"),a=window.location.search,t=new URLSearchParams(a).get("v"),n=new URLSearchParams(a).get("t")??0;if(!e||!t)return;const o=parseInt(n,10);e.loadVideoById(t,o)}));})();
 @@||example.org^$document
 @@||example.org^$document
+@@||example.org^$document
