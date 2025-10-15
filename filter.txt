@@ -3,3 +3,4 @@ www.youtube.com#%#(()=>{window.addEventListener("load",(()=>{const e=document.qu
 @@||example.org^$document
 @@||example.com^$document
 @@||example.com^$document
+@@||example.com^$document
