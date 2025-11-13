@@ -1,2 +1,3 @@
 @@||example.org^$document
 @@||example.com^$document
+vc.ru##div
