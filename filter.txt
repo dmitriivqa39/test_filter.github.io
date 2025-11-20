@@ -1,4 +1,10 @@
+! Title: Test filters
+! Last modified: %timestamp%
+! Expires: None
+! Description: None
+
 @@||example.org^$document
 @@||example.com^$document
 vc.ru##div
 habr.ru##div
+championat.com##.header
