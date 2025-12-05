@@ -8,3 +8,4 @@
 vc.ru##div
 habr.ru##div
 championat.com##div
+stepik.org##div
