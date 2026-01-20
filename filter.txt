@@ -3,10 +3,9 @@
 ! Expires: None
 ! Description: None
 
-@@||example.org^$document
-@@||example.com^$document
 vc.ru##div
 habr.ru##div
 championat.com##div
 stepik.org##div
 qarocks.ru##div
+example.com##p
