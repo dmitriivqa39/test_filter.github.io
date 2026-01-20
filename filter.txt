@@ -8,3 +8,4 @@ habr.ru##div
 championat.com##div
 stepik.org##div
 qarocks.ru##div
+example.com##p
