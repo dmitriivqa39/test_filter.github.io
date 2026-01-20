@@ -9,3 +9,4 @@ championat.com##div
 stepik.org##div
 qarocks.ru##div
 example.com##p
+example.com##h1
