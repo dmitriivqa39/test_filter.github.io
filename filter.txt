@@ -1,11 +1,10 @@
 ! Title: Test filters
 ! Last modified: %timestamp%
 ! Expires: None
-! Description: None
+! Description: =)
 
 vc.ru##div
 habr.ru##div
 championat.com##div
 stepik.org##div
-qarocks.ru##div
-example.com##p
+
