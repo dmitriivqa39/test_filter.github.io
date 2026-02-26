@@ -1,0 +1,2 @@
+@@||github.com^$generichide,badfilter
+github.com##button
