@@ -1,1 +1,2 @@
+@@||github.com^$generichide
 github.com##button
