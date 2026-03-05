@@ -7,6 +7,3 @@ vc.ru##div
 habr.ru##div
 championat.com##div
 stepik.org##div
-example.com##p
-example.com##h1
-example.com^$document
