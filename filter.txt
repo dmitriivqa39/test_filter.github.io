@@ -1,5 +1,5 @@
 ! Title: Test filters
-! Last modified: %timestamp%
+! TimeUpdated: 2026-02-18T08:45:55+00:00
 ! Expires: None
 ! Description: =)
 
