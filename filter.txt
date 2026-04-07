@@ -1,5 +1,5 @@
 ! Title: Test filters
-! TimeUpdated: 2025-04-04T08:45:55+00:00
+! TimeUpdated: 2030-04-04T08:45:55+00:00
 ! Expires: None
 ! Description: =)
 
@@ -8,4 +8,4 @@ habr.ru##div
 championat.com##div
 stepik.org##div
 example.com##h1
-
+example.com##h1
