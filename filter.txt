@@ -8,4 +8,4 @@ habr.ru##div
 championat.com##div
 stepik.org##div
 example.com##h1
-example.com##p
+example.com##a
