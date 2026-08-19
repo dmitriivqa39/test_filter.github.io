@@ -1,0 +1,7 @@
+! Title: dmitriivqa39 filters list
+! Last modified: %timestamp%
+! Description: Blocks annoying ads in different sites.
+
+! Block dzen and videoplayer
+mail.ru##.feed__content
+mail.ru##.tv-widget
