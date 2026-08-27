@@ -1,4 +1,5 @@
 ! Title: dmitriivqa39 filters list
+! Version: %timestamp%
 ! Last modified: %timestamp%
 ! Description: Blocks annoying ads in different sites.
 
