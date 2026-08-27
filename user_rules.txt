@@ -6,5 +6,3 @@
 mail.ru##.feed__content
 mail.ru##.tv-widget
 ! Test section
-@@playtv.fr$object-subrequest,domain=play.tv|playtv.fr
-@@|http*/crossdomain.xml$object-subrequest,domain=vercanalestv.com
