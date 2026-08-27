@@ -7,3 +7,4 @@
 mail.ru##.feed__content
 mail.ru##.tv-widget
 ! Test section
+example.com##a
