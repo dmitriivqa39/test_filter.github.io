@@ -1,5 +1,5 @@
 ! Title: dmitriivqa39 filters list
-! Version: 2026.08.27.11.40.+5
+! Version: 2026.09.08.11.00.+5
 ! Last modified: %timestamp%
 ! Description: Blocks annoying ads in different sites.
 
