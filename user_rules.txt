@@ -6,4 +6,7 @@
 ! Block dzen and videoplayer
 mail.ru##.feed__content
 mail.ru##.tv-widget
-! Test section
+! Lenta.ru block video blocks
+lenta.ru#%#//scriptlet('remove-class', 'eplayer-skin-middleground')
+lenta.ru#%#//scriptlet('remove-class', 'eplayer-skin-overlay')
+lenta.ru##.box-external-video__eagle
