@@ -1,5 +1,5 @@
 ! Title: dmitriivqa39 filters list
-! Version: 2026.09.23.10.12.+5
+! Version: 2026.09.23.10.19.+5
 ! Last modified: %timestamp%
 ! Description: Blocks annoying ads in different sites.
 
@@ -13,3 +13,5 @@ lenta.ru##.box-external-video__eagle
 ! Lenta.ru block comments section
 lenta.ru##.opinion
 lenta.ru##.topic_page__info
+! test section
+example.com##p
