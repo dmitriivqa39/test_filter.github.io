@@ -12,5 +12,7 @@ lenta.ru##.box-external-video__eagle
 ! Lenta.ru block comments section
 lenta.ru##.opinion
 lenta.ru##.topic_page__info
+! Misc section
+rutracker.org##.bn-page-bottom-block
 ! test section
-example.com##p
+
