@@ -13,6 +13,6 @@ lenta.ru##.box-external-video__eagle
 lenta.ru##.opinion
 lenta.ru##.topic_page__info
 ! Misc section
-rutracker.org##.bn-page-bottom-block
+rutracker.org###bn-page-bottom-block
 ! test section
 
